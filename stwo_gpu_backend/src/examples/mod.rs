@@ -1,3 +1,4 @@
+mod wide_fibonacci;
 use itertools::Itertools;
 
 use stwo_prover::constraint_framework::{EvalAtRow, FrameworkComponent, FrameworkEval};
